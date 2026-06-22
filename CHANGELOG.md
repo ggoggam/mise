@@ -1,5 +1,11 @@
 # Changelog
 
+## [2026.6.13](https://github.com/jdx/mise/compare/v2026.6.12..v2026.6.13) - 2026-06-22
+
+### 🐛 Bug Fixes
+
+- **(node)** suppress npm update notices by @risu729 in [#10557](https://github.com/jdx/mise/pull/10557)
+
 ## [2026.6.12](https://github.com/jdx/mise/compare/v2026.6.11..v2026.6.12) - 2026-06-21
 
 ### 🚀 Features
